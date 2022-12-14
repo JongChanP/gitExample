@@ -18,7 +18,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-public class MultiChatClient2 {
+public class MiltiChatClient2 {
 	static String nickName = null;//대화명
 	static JTextArea ta;
 	static JTextField tf;
