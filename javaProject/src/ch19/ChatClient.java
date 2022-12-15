@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
-
+//소스변경테스트
 public class ChatClient {
 	public static void main(String[] args) throws Exception {
 		Socket socket = null;
